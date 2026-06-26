@@ -23,7 +23,7 @@ This project analyzes space mission data from 2019 and 2020. The goal is to extr
 ---
 
 ## 🗂️ ساختار پروژه (Project Structure)
-project-02-space-missions/
+## project-02-space-missions/
 │
 ├── README.md # این فایل / This file
 ├── analysis.ipynb # نوت‌بوک اصلی تحلیل / Main analysis notebook
@@ -122,7 +122,7 @@ python analysis.py
 ```
 # 🛠️ ابزارها و تکنولوژی‌ها (Technologies Used)
  دسته‌بندی (Category)	| کتابخانه/ابزار (Library/Tool)	| کاربرد (Usage)
-|---|---|
+|:---|:---|
 | زبان برنامه‌نویسی	| Python 3.9+	| هسته اصلی تحلیل
 | پردازش داده	| Pandas, NumPy	| تمیزکاری، دستکاری و محاسبات عددی 
 | مصورسازی داده	| Matplotlib, Seaborn	| رسم نمودارهای حرفه‌ای 
