@@ -121,11 +121,12 @@ jupyter notebook analysis.ipynb
 python analysis.py
 ```
 # 🛠️ ابزارها و تکنولوژی‌ها (Technologies Used)
-## دسته‌بندی (Category)	کتابخانه/ابزار (Library/Tool)	کاربرد (Usage)
-## زبان برنامه‌نویسی	Python 3.9+	هسته اصلی تحلیل
-## پردازش داده	Pandas, NumPy	تمیزکاری، دستکاری و محاسبات عددی
-## مصورسازی داده	Matplotlib, Seaborn	رسم نمودارهای حرفه‌ای
-## محیط توسعه	Jupyter Notebook	تحلیل تعاملی و مستندسازی
+ دسته‌بندی (Category)	| کتابخانه/ابزار (Library/Tool)	| کاربرد (Usage)
+|---|---|
+| زبان برنامه‌نویسی	| Python 3.9+	| هسته اصلی تحلیل
+| پردازش داده	| Pandas, NumPy	| تمیزکاری، دستکاری و محاسبات عددی 
+| مصورسازی داده	| Matplotlib, Seaborn	| رسم نمودارهای حرفه‌ای 
+| محیط توسعه	| Jupyter Notebook |	تحلیل تعاملی و مستندسازی
 ---
 # 📚 منبع داده (Data Source)
 ## دیتاست: عملیات فضایی ۲۰۱۹-۲۰۲۰
