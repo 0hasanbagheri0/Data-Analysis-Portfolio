@@ -24,22 +24,22 @@ This project analyzes space mission data from 2019 and 2020. The goal is to extr
 
 ## 🗂️ ساختار پروژه (Project Structure)
 ## project-02-space-missions/
-.
-├── README.md                    # این فایل / This file
-├── analysis.ipynb               # نوت‌بوک اصلی تحلیل / Main analysis notebook
-├── analysis.py                  # اسکریپت پایتون / Python script (optional)
-│
-├── data/
-│   └── space_missions.csv       # دیتاست اصلی / Main dataset
-│
-├── images/                      # تصاویر و نمودارها / Images & charts
-│   ├── missions_by_company.png
-│   ├── success_rate_by_country.png
-│   ├── cost_distribution.png
-│   └── missions_over_time.png
-│
-└── reports/                     # گزارش‌های نهایی / Final reports
-    └── insights_summary.md      # خلاصه بینش‌ها / Summary of insights---
+## 📁 ساختار پروژه (Project Structure)
+
+- `README.md` - این فایل / This file
+- `analysis.ipynb` - نوت‌بوک اصلی تحلیل / Main analysis notebook
+- `analysis.py` - اسکریپت پایتون / Python script (optional)
+- `data/`
+  - `space_missions.csv` - دیتاست اصلی / Main dataset
+- `images/` - تصاویر و نمودارها / Images & charts
+  - `missions_by_company.png`
+  - `success_rate_by_country.png`
+  - `cost_distribution.png`
+  - `missions_over_time.png`
+- `reports/` - گزارش‌های نهایی / Final reports
+  - `insights_summary.md` - خلاصه بینش‌ها / Summary of insights
+
+    ---
 
 ## 📊 خلاصه داده‌ها (Data Summary)
 
